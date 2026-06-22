@@ -1,0 +1,5 @@
+# Local clasp / Apps Script tooling
+.clasp.json
+.clasprc.json
+node_modules/
+*.local.gs

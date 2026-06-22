@@ -1,5 +1,12 @@
 # Ads Command Center
 
+### ▶️ [**Open the live demo →**](https://script.google.com/macros/s/AKfycbxLdJehYqxPBmTLfTtMUhkcnE7OGgTpFx1iCNVaQD4TBOuvsmEN_n9KvrywxJ1Aq4dW/exec)
+
+*A fully clickable demo running on fictional data — explore every page, run the
+AI analysis, spin the globe. No login required.*
+
+---
+
 A single-file **Google Apps Script web app** that turns a multi-account Google Ads
 setup into a fast, executive-ready dashboard — built for a property management
 company running paid campaigns across multiple apartment communities.
@@ -180,12 +187,19 @@ browser JS calls server functions via google.script.run
 
 ## Screenshots
 
-Add your own screenshots to a `/screenshots` folder and reference them here.
+> 🔗 **Best experienced live:** [open the interactive demo](https://script.google.com/macros/s/AKfycbxLdJehYqxPBmTLfTtMUhkcnE7OGgTpFx1iCNVaQD4TBOuvsmEN_n9KvrywxJ1Aq4dW/exec)
 
-| | |
-|---|---|
-| ![Overview](screenshots/overview.png) | ![Analytics](screenshots/analytics.png) |
-| ![Budget](screenshots/budget.png) | ![AI Insights](screenshots/ai-insights.png) |
+**AI Insights** — Claude reads the live data and returns a graded, prioritized action plan.
+![AI Insights](ai-insights.png)
+
+**Overview** — portfolio-wide trend, KPI cards, and accounts that need attention.
+![Overview](overview.png)
+
+**Analytics** — geo globe, efficiency quadrant, and a day-by-hour timing heatmap.
+![Analytics](analytics.png)
+
+**Budget** — live spend blended with budget and occupancy, with reallocation analysis.
+![Budget](budget.png)
 
 ---
 
